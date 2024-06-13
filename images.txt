@@ -1,2 +1,2 @@
 nginx
-ibmcom/db2
+ibmcom/db2:11.5.6.0
